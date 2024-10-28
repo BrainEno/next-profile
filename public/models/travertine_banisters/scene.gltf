@@ -1,0 +1,614 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 14103,
+      "max": [
+        0.06096963211894035,
+        0.06097312644124031,
+        0.3117714524269104
+      ],
+      "min": [
+        -0.06097659841179848,
+        -0.06097310408949852,
+        -0.38757646083831787
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 169236,
+      "componentType": 5126,
+      "count": 14103,
+      "max": [
+        1.0,
+        1.0,
+        0.998327910900116
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 14103,
+      "max": [
+        0.9997443556785583,
+        0.9997444152832031,
+        0.7925937175750732,
+        1.0
+      ],
+      "min": [
+        -0.9997441172599792,
+        -0.9997446537017822,
+        -0.9950978755950928,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 14103,
+      "max": [
+        0.8109910488128662,
+        0.9775768518447876
+      ],
+      "min": [
+        0.29567405581474304,
+        7.638183160452172e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 82548,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 338472,
+      "componentType": 5126,
+      "count": 19629,
+      "max": [
+        0.9914105534553528,
+        0.9914105534553528,
+        5.697129726409912
+      ],
+      "min": [
+        -0.9914105534553528,
+        -0.9914105534553528,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 574020,
+      "componentType": 5126,
+      "count": 19629,
+      "max": [
+        0.9999967217445374,
+        0.9999967217445374,
+        1.0
+      ],
+      "min": [
+        -0.9999967813491821,
+        -0.9999967813491821,
+        -0.9999340176582336
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 225648,
+      "componentType": 5126,
+      "count": 19629,
+      "max": [
+        0.999933660030365,
+        0.9999669790267944,
+        0.04782360792160034,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999734163284302,
+        -0.7327811121940613,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 112824,
+      "componentType": 5126,
+      "count": 19629,
+      "max": [
+        1.0957461595535278,
+        0.9909975528717041
+      ],
+      "min": [
+        0.03412129357457161,
+        -0.11689949035644531
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 330192,
+      "componentType": 5125,
+      "count": 115188,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 809568,
+      "componentType": 5126,
+      "count": 11243,
+      "max": [
+        0.007903390564024448,
+        0.007903390564024448,
+        0.08170752227306366
+      ],
+      "min": [
+        -0.007903390564024448,
+        -0.007903390564024448,
+        -0.007903390564024448
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 944484,
+      "componentType": 5126,
+      "count": 11243,
+      "max": [
+        0.9999827742576599,
+        0.9999827742576599,
+        0.9993306398391724
+      ],
+      "min": [
+        -0.9999827742576599,
+        -0.9999827742576599,
+        -0.9995149970054626
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 539712,
+      "componentType": 5126,
+      "count": 11243,
+      "max": [
+        1.0,
+        1.0,
+        0.969350278377533,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9693604111671448,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 269856,
+      "componentType": 5126,
+      "count": 11243,
+      "max": [
+        0.5649973154067993,
+        0.9444597959518433
+      ],
+      "min": [
+        0.02363618277013302,
+        0.044545046985149384
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 790944,
+      "componentType": 5125,
+      "count": 65652,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Alimoğlu - Marble & Granite (https://sketchfab.com/alimoglu)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/travertine-banisters-31c1e72049624583b4a4f8cd9eef7619",
+      "title": "Travertine Banisters"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1053552,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 359800,
+      "byteOffset": 1053552,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1079400,
+      "byteOffset": 1413352,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 719600,
+      "byteOffset": 2492752,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3212352,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Travertine_CUT_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/Travertine_CUT_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Travertine_CUT_normal.png"
+    },
+    {
+      "uri": "textures/Travertine_CUT_occlusion.png"
+    },
+    {
+      "uri": "textures/Travertine_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/Travertine_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Travertine_normal.png"
+    },
+    {
+      "uri": "textures/Travertine_occlusion.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "name": "Travertine_CUT",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 3
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 4
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "specularGlossinessTexture": {
+            "index": 5
+          }
+        }
+      },
+      "name": "Travertine",
+      "normalTexture": {
+        "index": 6
+      },
+      "occlusionTexture": {
+        "index": 7
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Banister_TRV_Travertine_CUT_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Banister_TRV2_Travertine_CUT_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder_Travertine_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "81a247850ccb450e80387cd1f1e60d1d.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        956.8336181640625,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -0.00015588798313623326,
+        -956.8336181640499,
+        0.0,
+        0.0,
+        956.8336181640499,
+        -0.00015588798313623326,
+        0.0,
+        -2.735912799835205,
+        368.6041259765625,
+        1.1645463928289246e-05,
+        1.0
+      ],
+      "name": "Banister_TRV"
+    },
+    {
+      "mesh": 0,
+      "name": "Banister_TRV_Travertine_CUT_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        212.09153747558594,
+        101.12252044677734,
+        -228.5949249267578,
+        1.0
+      ],
+      "name": "Banister_TRV2"
+    },
+    {
+      "mesh": 1,
+      "name": "Banister_TRV2_Travertine_CUT_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        7417.26318359375,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -0.001208425557099112,
+        -7417.263183593652,
+        0.0,
+        0.0,
+        7417.263183593652,
+        -0.001208425557099112,
+        0.0,
+        -189.07168579101563,
+        59.401710510253906,
+        -212.57655334472656,
+        1.0
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "mesh": 2,
+      "name": "Cylinder_Travertine_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    }
+  ]
+}
